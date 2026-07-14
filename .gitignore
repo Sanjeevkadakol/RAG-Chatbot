@@ -1,0 +1,31 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+frontend/node_modules/
+frontend/dist/
+
+# Python
+venv/
+.venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+backend/env/
+__pycache__/
+backend/__pycache__/
+
+# RAG specific (vector db and logs)
+backend/vector_db/
+backend/backend_log.txt
+backend/.env
+.system_generated/
+dataset/
