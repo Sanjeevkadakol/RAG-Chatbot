@@ -1,0 +1,15 @@
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+backend/backend_log.txt
+backend/.env
+
+frontend/node_modules/
+frontend/dist/
+
+dataset/
+.git/
+.github/
+.system_generated/
+vector_db/
+backend/vector_db/
